@@ -1,7 +1,7 @@
 {
 	"name": "websocket",
 	"version": "1.0.0",
-	"description": "Learning websocked ",
+	"description": "Learning websocket ",
 	"main": "index.js",
 	"author": "Modibo Sanogo",
 	"license": "MIT",
