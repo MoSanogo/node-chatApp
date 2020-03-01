@@ -1,14 +1,17 @@
 {
-  "name": "websocket",
-  "version": "1.0.0",
-  "description": "Learning websocked ",
-  "main": "index.js",
-  "author": "Modibo Sanogo",
-  "license": "MIT",
-  "private": true,
-  "dependencies": {
-    "express": "^4.17.1",
-    "helmet": "^3.21.3",
-    "socket.io": "^2.3.0"
-  }
+	"name": "websocket",
+	"version": "1.0.0",
+	"description": "Learning websocked ",
+	"main": "index.js",
+	"author": "Modibo Sanogo",
+	"license": "MIT",
+	"scripts": {
+		"start": " node src/index.js"
+	},
+	"private": true,
+	"dependencies": {
+		"express": "^4.17.1",
+		"helmet": "^3.21.3",
+		"socket.io": "^2.3.0"
+	}
 }
